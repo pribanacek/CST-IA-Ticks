@@ -1,0 +1,1 @@
+fun lexor (x1, y1) (x, y) = x1 < x orelse (x1 = x andalso y1 < y);

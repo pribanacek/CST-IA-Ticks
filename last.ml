@@ -1,0 +1,1 @@
+fun last(x::xs) = if length xs = 0 then x else last(xs);
