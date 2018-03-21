@@ -21,7 +21,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-
 *.dll
 *.mp4
 *.exe
@@ -35,3 +34,6 @@ hs_err_pid*
 /Algorithms/bin
 /Algorithms/src/uk/ac/cam/jp775/Algorithms/supos
 /Algorithms/.settings
+
+
+
