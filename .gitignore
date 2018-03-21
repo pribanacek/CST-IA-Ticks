@@ -31,4 +31,10 @@ hs_err_pid*
 /.recommenders
 /.git
 /Ticks
-*.ppm
+/ML/bits
+/Algorithms/bin
+/Algorithms/.settings
+
+*.classpath
+*.gitignore
+*.project
