@@ -33,6 +33,7 @@ hs_err_pid*
 /Ticks
 /ML/bits
 /Algorithms/bin
+/Algorithms/src/uk/ac/cam/jp775/Algorithms/supos
 /Algorithms/.settings
 
 *.classpath
