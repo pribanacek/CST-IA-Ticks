@@ -36,6 +36,3 @@ hs_err_pid*
 /Algorithms/src/uk/ac/cam/jp775/Algorithms/supos
 /Algorithms/.settings
 
-*.classpath
-*.gitignore
-*.project
